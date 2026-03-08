@@ -43,9 +43,9 @@ Nile University
 
 Authors:
 
+* Mustafa Abou Khatwa
 * John Samy Azer
 * Aser Hesham
-* Mustafa Abou Khatwa
 * Andrew Emad Samir
 * Salma Alaa Ibrahim
 
